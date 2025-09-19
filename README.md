@@ -7,6 +7,8 @@ A powerful WordPress plugin addon that extends LatePoint's functionality by allo
 ![LatePoint](https://img.shields.io/badge/LatePoint-Required-orange.svg)
 ![License](https://img.shields.io/badge/license-GPL--2.0+-red.svg)
 
+![image](screenshots/video.mp4)
+
 ## 🚀 Features
 
 ### ✨ Core Functionality
